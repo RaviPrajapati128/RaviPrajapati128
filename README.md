@@ -1,86 +1,23 @@
-## 👋 Hi there! I'm Ravi Prajapati
+### 👋 Hi, I’m Ravi Prajapati!
 
-I am a **Data Science professional** and **Computer Science & Engineering student** based in Ahmedabad, India. My passion lies in transforming complex datasets into actionable insights and building data-driven solutions that solve real-world problems.
-
----
-
-### 🚀 About Me
-
-* 
-**Current Focus:** Pursuing a B.E. in Computer Science & Engineering with a specialization in Data Science.
-
-
-* 
-**Expertise:** I specialize in designing predictive models, building interactive dashboards, and streamlining workflows.
-
-
-* 
-**Goal:** To deliver measurable impact and efficiency for organizations through continuous advancement in machine learning and analytics.
-
-
-
-### 🛠️ Technical Toolkit
-
-* 
-**Programming:** Python (Pandas, NumPy, Scikit-learn), SQL.
-
-
-* 
-**Data Analysis & Visualization:** Matplotlib, Seaborn, Power BI, Tableau, Advanced Excel.
-
-
-* 
-**Machine Learning:** Regression, Classification, Clustering, and Predictive Modeling.
-
-
-* 
-**Web Deployment:** Streamlit.
-
-
-
-### 📈 Highlighted Projects
-
-* 
-**Heart Attack Risk Predictor:** A Streamlit-based web app using Scikit-learn to estimate risk scores with **96.89% accuracy**.
-
-
-* 
-**Crop Recommendation System:** A predictive tool utilizing a **KNN Classifier (97.04% accuracy)** to assist in data-driven agricultural decisions.
-
-
-* 
-**VitalFlow:** A Smart Blood Bank Management System featuring a secure SQL database and real-time availability tracking.
-
-
-* 
-**Retail Store Analysis:** End-to-end EDA and Power BI dashboarding to uncover seasonal trends and customer behavior.
-
-
+I am a Data Science professional and Computer Science & Engineering student dedicated to transforming complex datasets into actionable insights. Based in Ahmedabad, India, I build predictive models and interactive dashboards to drive strategic decision-making.
 
 ---
 
-### 🎓 Certifications
-
-I am committed to continuous learning and have completed certifications in:
-
-* Python Essentials for Data Science.
-
-
-* Machine Learning & SQL Mastery.
-
-
-* Power BI & Tableau Essentials.
-
-
-
-### 📫 Connect with Me
-
-* 📍 Ahmedabad, Gujarat, India 
-
-
-* 📧 [prajapatiravi74753@gmail.com]() 
-
-
+*
+**🔭 I’m currently working on** ... A communication assistance project designed to help individuals with speech impairments communicate more effectively.
+* 
+**🌱 I’m currently learning** ... Advanced Machine Learning and SQL mastery to further refine my data-driven solutions.
+* 
+**👯 I’m looking to collaborate on** ... Open-source Data Science projects, particularly those involving Streamlit or predictive modeling.
+*
+**🤔 I’m looking for help with** ... Finding Data Science or AI/ML internship opportunities in the Ahmedabad or Gandhinagar area.
+* 
+**💬 Ask me about** ... Python programming , building interactive web apps with Streamlit , or how I achieved high accuracy in models like my Heart Attack Risk Predictor (96.89%) and Crop Recommendation System (97.04%).
+* 
+**📫 How to reach me**: ... You can reach me via email at prajapatiravi74753@gmail.com or connect with me through my LinkedIn or GitHub profiles.
+* **😄 Pronouns**: ... He/Him.
+* **⚡ Fun fact**: ... I am a big fan of Indian hip-hop culture.
 * 💼 [LinkedIn](https://www.linkedin.com) | 🌐 [Portfolio Website](https://www.google.com)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravi-prajapati-301804388/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajapatiravi74753@gmail.com) 
