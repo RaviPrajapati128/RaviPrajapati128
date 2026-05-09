@@ -7,7 +7,6 @@ I am a Data Science professional and Computer Science & Engineering student dedi
 * **🔭 I’m currently working on** ... A communication assistance project designed to help individuals with speech impairments communicate more effectively.
 * **🌱 I’m currently learning** ... Advanced Machine Learning and SQL mastery to further refine my data-driven solutions.
 * **👯 I’m looking to collaborate on** ... Open-source Data Science projects, particularly those involving Streamlit or predictive modeling.
-* **🤔 I’m looking for help with** ... Finding Data Science or AI/ML internship opportunities in the Ahmedabad or Gandhinagar area.
 * **💬 Ask me about** ... Python programming , building interactive web apps with Streamlit , or how I achieved high accuracy in models like my Heart Attack Risk Predictor (96.89%) and Crop Recommendation System (97.04%).
 * **📫 How to reach me**: ... You can reach me via email at prajapatiravi74753@gmail.com or connect with me through my LinkedIn or GitHub profiles.
 * **😄 Pronouns**: ... He/Him.
