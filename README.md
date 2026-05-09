@@ -11,7 +11,7 @@ I am a Data Science professional and Computer Science & Engineering student dedi
 * **📫 How to reach me**: ... You can reach me via email at prajapatiravi74753@gmail.com or connect with me through my LinkedIn or GitHub profiles.
 * **😄 Pronouns**: ... He/Him.
 * **⚡ Fun fact**: ... I am a big fan of Indian hip-hop culture.
-* 💼 [LinkedIn](https://www.linkedin.com) | 🌐 [Portfolio Website](https://www.google.com)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravi-prajapati-301804388/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajapatiravi74753@gmail.com) 
 
