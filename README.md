@@ -4,7 +4,6 @@ I am a Data Science professional and Computer Science & Engineering student dedi
 
 ---
 
-* **🔭 I’m currently working on** ... A communication assistance project designed to help individuals with speech impairments communicate more effectively.
 * **🌱 I’m currently learning** ... Advanced Machine Learning and SQL mastery to further refine my data-driven solutions.
 * **👯 I’m looking to collaborate on** ... Open-source Data Science projects, particularly those involving Streamlit or predictive modeling.
 * **💬 Ask me about** ... Python programming , building interactive web apps with Streamlit , or how I achieved high accuracy in models like my Heart Attack Risk Predictor (96.89%) and Crop Recommendation System (97.04%).
